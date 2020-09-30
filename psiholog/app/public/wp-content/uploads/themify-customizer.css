@@ -1,0 +1,56 @@
+/* Themify Customize Styling */
+#pagewrap #headerwrap.fixed-header, .transparent-header #pagewrap #headerwrap.fixed-header {	background: none;
+	background-color: #00458b; 
+}
+body[class*="themify"] #site-logo a {	
+	font-family: "Satisfy";	font-weight:normal;
+	font-size:45px;
+ 
+}
+#main-nav-wrap #main-nav a:hover, #main-nav-wrap #main-nav > li > a:hover {	
+	color: #3fd2c7; 
+}
+.post-title, .post-title a, .loops-wrapper .post-image + .post-content .post-title a {	
+	color: #00458b; 
+}
+.post-title a:hover, .loops-wrapper .post-image + .post-content .post-title a:hover {	
+	color: #3fd2c7; 
+}
+.post-meta {	
+	color: #00458b; 
+}
+.post-meta a {	
+	color: #3fd2c7; 
+}
+.post-meta a:hover {	
+	color: #00458b; 
+}
+.post-nav a {	
+	color: #3fd2c7; 
+}
+#sidebar a, #sidebar-alt a {	
+	color: #3fd2c7; 
+}
+#sidebar a:hover, #sidebar-alt a:hover {	
+	color: #00458b; 
+}
+#footerwrap {	background: none;
+	background-color: #00458b; 
+}
+#footer-logo a {	
+	font-family: "Satisfy";	font-weight:normal;
+	font-size:35px;
+	text-align:center;
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+#footer a:hover {	
+	color: #99ddff; 
+}
+#footer .footer-widgets .widgettitle {		text-align:center; 
+}
+#pagewrap .back-top.back-top-float, .full-section-scrolling #footerwrap .back-top .arrow-up a, .footer-horizontal-left #footerwrap .back-top .arrow-up a, .footer-horizontal-right #footerwrap .back-top .arrow-up a, .footer-left-col #footerwrap .back-top .arrow-up a, .footer-right-col #footerwrap .back-top .arrow-up a, #footer .back-top .arrow-up a {	background: none;
+	background-color: #3fd2c7; 
+}
